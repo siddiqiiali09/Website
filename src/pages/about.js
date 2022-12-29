@@ -26,8 +26,6 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          {/* Remove under */}
-          maxHeight={'900px'}
           image={'/about.png'}
           title={`ALI SIDDIQUI`}
         />

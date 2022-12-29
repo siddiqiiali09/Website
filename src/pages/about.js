@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         <Hero
           maxWidth={'900px'}
           image={'/about.png'}
-          title={`ALI SIDDIQUI`}
+          title={`HEY THERE`}
         />
 
         <div className={styles.navContainer}>
@@ -48,8 +48,7 @@ const AboutPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <div className={styles.detailContainer} ref={historyRef}>
             <p>
-              Ali is a Dual-Enrolled High School Student at Dougherty Valley High School in Northern California, and a student
-                at Glendale Community College near Los Angeles.
+              HEY THERE
             </p>
             <br />
             <br />
